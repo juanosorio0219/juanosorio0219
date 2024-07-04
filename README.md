@@ -1,4 +1,4 @@
-# 👋 Welcome to My GitHub!
+# 👋 Hi! 👋 I'm Juan, welcome to My GitHub!
 ## About Me
 Hi there! I'm a passionate Fullstack Web Developer with a knack for crafting seamless user experiences and robust backend systems. With a strong foundation in both frontend and backend technologies, I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
