@@ -5,7 +5,7 @@ Hi there! I'm a passionate Fullstack Web Developer with a knack for crafting sea
 
 ## My Expertise
 * **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Angular, Vue.js, Next.js
-* **Backend:** Node.js, Spring Boot
+* **Backend:** Node.js, Spring Boot, FastAPI
 * **Database:** OracleDB, MySQL, PostgreSQL
 * **DevOps:** Docker, Kubernetes, Jenkins, Terraform, CI/CD
 * **Cloud:** AWS, Azure
